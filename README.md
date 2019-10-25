@@ -32,3 +32,5 @@ It speeds up a work with repository.
 	foto.jpeg: text: unset
 	foto.jpeg: filter: lfs
 	```
+5. Note that all developers shall have Git LFS installed.
+6. More: https://mydeveloperplanet.com/2018/10/31/git-lfs-why-and-how-to-use/
