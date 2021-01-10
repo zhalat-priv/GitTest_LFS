@@ -4,6 +4,11 @@ LFS repleaces large files such as media,audio,etc with text pointers.
 It speeds up a work with repository.
 1. Download and install extension: git-lfs-linux-amd64-xxx.tar.gz
 	https://git-lfs.github.com/
+	or
+	```
+	curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | sudo bash
+	sudo apt-get install git-lfs
+	```
 2. Go to your repo where you want to use LFS
 	```
 	git lfs install
